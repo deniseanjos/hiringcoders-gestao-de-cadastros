@@ -5,7 +5,7 @@ export default function Home() {
 
     return (
         <>
-        <h1>Home works</h1>
+        <S.TituloH1>Home works</S.TituloH1>
         </>
     );
 }

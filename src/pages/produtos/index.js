@@ -5,7 +5,7 @@ export default function Produtos() {
 
     return (
         <>
-        <h1>Produtos works</h1>
+        <S.TituloH1>Produtos works</S.TituloH1>
         </>
     );
 
