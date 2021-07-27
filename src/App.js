@@ -1,8 +1,20 @@
+import Menu from './componentes/menu/index.js';
+import Rodape from './componentes/rodape/index.js';
 import Routes from './Routes';
 
 function App() {
   return (
-    <Routes />
+    <>
+      <div>
+        <Menu />
+      </div>
+      <div>
+        <Routes />
+      </div>
+      <div>
+        <Rodape />
+      </div>
+    </>
   );
 }
 

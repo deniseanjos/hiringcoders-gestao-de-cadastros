@@ -1,5 +1,11 @@
 import styled from "styled-components";
 
-export const TituloH1 = styled.h1`
-    text-transform: uppercase;
+export const Container = styled.div`
+    margin: 5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 `;
+
+
